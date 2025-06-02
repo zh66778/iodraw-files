@@ -196,6 +196,15 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-40" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="400" y="670" width="92.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297.5" y="620" as="sourcePoint" />
+            <mxPoint x="341.25" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-42" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="307.5" y="670" width="92.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
