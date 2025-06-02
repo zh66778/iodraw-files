@@ -149,7 +149,7 @@
           <mxGeometry x="542.5" y="285" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-29" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="291.5" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="580" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
