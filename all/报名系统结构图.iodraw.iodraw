@@ -634,7 +634,7 @@
             <mxPoint x="237.15999999999997" y="2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-147" value="返回注册结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-147" value="跳转主页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="192.5" y="2580" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-148" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
