@@ -415,6 +415,9 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-90" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="449.75" y="1269" width="92.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-91" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="30" y="1219" width="92.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
