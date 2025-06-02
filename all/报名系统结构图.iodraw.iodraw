@@ -154,7 +154,7 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="580" as="sourcePoint" />
-            <mxPoint x="280" y="530" as="targetPoint" />
+            <mxPoint x="260" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
