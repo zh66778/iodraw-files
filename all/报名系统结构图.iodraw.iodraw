@@ -580,14 +580,11 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-133" value="返回注册结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="290" y="2580" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-134" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LtqIyht4gryTizTCnVvE-134" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364.65999999999997" y="2690" as="sourcePoint" />
-            <mxPoint x="364.65999999999997" y="2730" as="targetPoint" />
+            <mxPoint x="334.65999999999997" y="2620" as="sourcePoint" />
+            <mxPoint x="334.65999999999997" y="2660" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-135" value="保存用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2730" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
