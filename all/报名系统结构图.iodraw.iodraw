@@ -511,7 +511,7 @@
             <mxPoint x="332.25" y="2071" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-117" value="录入时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-117" value="角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="298.5" y="2071" width="92.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-118" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="LtqIyht4gryTizTCnVvE-107">
@@ -529,7 +529,7 @@
             <mxPoint x="508.75" y="2021" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-121" value="等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-121" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="475" y="2021" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
