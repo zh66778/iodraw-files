@@ -322,7 +322,7 @@
             <mxPoint x="545.5" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-70" value="报名费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-70" value="考试说明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="522.5" y="860" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
