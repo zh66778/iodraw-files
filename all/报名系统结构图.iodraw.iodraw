@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="80" width="710" height="920" as="geometry" />
+          <mxGeometry x="40" y="80" width="710" height="920" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-1" value="在线考试报名管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="287.5" y="65" width="128" height="53" as="geometry" />
@@ -200,6 +200,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="297.5" y="630" as="sourcePoint" />
             <mxPoint x="341.25" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="LtqIyht4gryTizTCnVvE-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="705.0689655172414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-42" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
