@@ -829,6 +829,54 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-195" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="194.75" y="3060" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-196" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-197" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.65999999999997" y="2440" as="sourcePoint" />
+            <mxPoint x="424.65999999999997" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-198" value="输入查询条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-199" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.65999999999997" y="2520" as="sourcePoint" />
+            <mxPoint x="424.65999999999997" y="2560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-200" value="查询考试信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-201" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.65999999999997" y="2600" as="sourcePoint" />
+            <mxPoint x="424.65999999999997" y="2640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-202" value="按条件筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-203" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.65999999999997" y="2680" as="sourcePoint" />
+            <mxPoint x="424.65999999999997" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-204" value="分页显示结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-205" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.65999999999997" y="2760" as="sourcePoint" />
+            <mxPoint x="424.65999999999997" y="2800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-206" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2800" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
