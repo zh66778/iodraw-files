@@ -778,7 +778,7 @@
             <mxPoint x="64.65999999999997" y="2980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-182" value="按条件筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-182" value="显示报名状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="20" y="2980" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-185" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -789,6 +789,45 @@
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-186" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="20" y="3060" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-187" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2960" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-188" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.65999999999997" y="3000" as="sourcePoint" />
+            <mxPoint x="84.65999999999997" y="3040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-189" value="输入学号信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3040" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-190" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.65999999999997" y="3080" as="sourcePoint" />
+            <mxPoint x="84.65999999999997" y="3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-191" value="查询报名记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-192" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.65999999999997" y="3160" as="sourcePoint" />
+            <mxPoint x="84.65999999999997" y="3200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-193" value="显示报名状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-194" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.65999999999997" y="3240" as="sourcePoint" />
+            <mxPoint x="84.65999999999997" y="3280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-195" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3280" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
