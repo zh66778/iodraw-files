@@ -348,12 +348,12 @@
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="287.25" y="1209" as="sourcePoint" />
-            <mxPoint x="277.25" y="1139" as="targetPoint" />
+            <mxPoint x="256.5" y="1209" as="sourcePoint" />
+            <mxPoint x="246.5" y="1139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-77" value="考试ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="218.25" y="1089" width="92.5" height="50" as="geometry" />
+          <mxGeometry x="187.5" y="1089" width="92.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -375,7 +375,7 @@
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="258.5" y="1280" as="sourcePoint" />
+            <mxPoint x="300" y="1250" as="sourcePoint" />
             <mxPoint x="302.25" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
