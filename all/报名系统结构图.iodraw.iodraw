@@ -325,6 +325,15 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-70" value="考试说明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="522.5" y="860" width="92.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="LtqIyht4gryTizTCnVvE-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.75" y="920" as="sourcePoint" />
+            <mxPoint x="159.75" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-72" value="考试名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="74.75" y="820" width="92.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
