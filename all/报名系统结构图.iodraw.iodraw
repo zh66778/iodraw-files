@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="1450" as="geometry" />
+          <mxGeometry x="40" y="80" width="710" height="1650" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-1" value="在线考试报名管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="287.5" y="65" width="128" height="53" as="geometry" />
@@ -331,7 +331,7 @@
             <mxPoint x="159.75" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-72" value="考试名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-72" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="74.75" y="820" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
