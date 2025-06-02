@@ -559,7 +559,7 @@
             <mxPoint x="334.65999999999997" y="2420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-129" value="输入注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-129" value="检查学号重复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="290" y="2420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-130" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -568,7 +568,7 @@
             <mxPoint x="334.65999999999997" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-131" value="验证数据格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-131" value="保存用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="290" y="2500" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
