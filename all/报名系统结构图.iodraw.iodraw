@@ -400,12 +400,6 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-87" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="117.25" y="1309" width="92.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.983;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="LtqIyht4gryTizTCnVvE-73" target="LtqIyht4gryTizTCnVvE-91">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="293.5" y="1239" as="sourcePoint" />
-            <mxPoint x="117.25" y="1239" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-89" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="LtqIyht4gryTizTCnVvE-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="439.75" y="1219" as="sourcePoint" />
@@ -414,9 +408,6 @@
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-90" value="审核意见" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="449.75" y="1269" width="92.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-91" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="40" y="1219" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
