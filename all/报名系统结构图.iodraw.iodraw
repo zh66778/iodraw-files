@@ -664,7 +664,7 @@
             <mxPoint x="405.65999999999997" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-154" value="验证用户密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="LtqIyht4gryTizTCnVvE-154" value="查询考试信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="361" y="2330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-155" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
