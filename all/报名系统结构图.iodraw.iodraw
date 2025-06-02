@@ -1,0 +1,154 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="768" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="710" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-1" value="在线考试报名管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="287.5" y="65" width="128" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="LtqIyht4gryTizTCnVvE-1" target="LtqIyht4gryTizTCnVvE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352.16" y="144" as="sourcePoint" />
+            <mxPoint x="352.16" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="145" as="sourcePoint" />
+            <mxPoint x="490" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="217.5" y="195" as="sourcePoint" />
+            <mxPoint x="217.5" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487.5" y="195" as="sourcePoint" />
+            <mxPoint x="487.5" y="145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="487.5" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-7" value="学生用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="177.5" y="194.5" width="80" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-8" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="447.5" y="194.5" width="90" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="217.5" y="255" as="sourcePoint" />
+            <mxPoint x="217.16" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="152.5" y="255" as="sourcePoint" />
+            <mxPoint x="282.5" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="217.5" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157.5" y="285" as="sourcePoint" />
+            <mxPoint x="157.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="197.5" y="285" as="sourcePoint" />
+            <mxPoint x="197.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="237.5" y="285" as="sourcePoint" />
+            <mxPoint x="237.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277.5" y="285" as="sourcePoint" />
+            <mxPoint x="277.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-15" value="个人信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="147.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-16" value="考试信息浏览模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="187.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-17" value="在线报名模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="227.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-18" value="报名状态查询模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="267.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="492.5" y="255" as="sourcePoint" />
+            <mxPoint x="492.15999999999997" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427.5" y="255" as="sourcePoint" />
+            <mxPoint x="557.5" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="492.5" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432.5" y="285" as="sourcePoint" />
+            <mxPoint x="432.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472.5" y="285" as="sourcePoint" />
+            <mxPoint x="472.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="512.5" y="285" as="sourcePoint" />
+            <mxPoint x="512.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="552.5" y="285" as="sourcePoint" />
+            <mxPoint x="552.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-25" value="考试信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="422.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-26" value="学生信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="462.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-27" value="报名审核管理模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="502.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LtqIyht4gryTizTCnVvE-28" value="成绩录入管理模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="542.5" y="285" width="20" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
