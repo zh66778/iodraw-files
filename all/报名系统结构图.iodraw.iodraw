@@ -391,14 +391,14 @@
         <mxCell id="LtqIyht4gryTizTCnVvE-85" value="报名ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="115" y="1307.36" width="92.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LtqIyht4gryTizTCnVvE-89" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="LtqIyht4gryTizTCnVvE-73">
+        <mxCell id="LtqIyht4gryTizTCnVvE-89" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="439.75" y="1219" as="sourcePoint" />
-            <mxPoint x="483.5" y="1269" as="targetPoint" />
+            <mxPoint x="332.5" y="1250" as="sourcePoint" />
+            <mxPoint x="478.75" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-90" value="审核意见" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="449.75" y="1269" width="92.5" height="50" as="geometry" />
+          <mxGeometry x="445" y="1280" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
