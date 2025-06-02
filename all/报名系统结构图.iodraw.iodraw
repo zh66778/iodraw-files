@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="210" width="750" height="1900" as="geometry" />
+          <mxGeometry x="10" y="210" width="750" height="2410" as="geometry" />
         </mxCell>
         <mxCell id="LtqIyht4gryTizTCnVvE-1" value="在线考试报名管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="287.5" y="65" width="128" height="53" as="geometry" />
